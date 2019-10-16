@@ -5,7 +5,7 @@ class Contact extends React.Component {
   constructor(props) {
     super(props); 
     this.state = {
-      user: false,
+      user: props.online /** Au départ user: false - c'est le bonus react challenge 5 */
     };
   }
   render() {
