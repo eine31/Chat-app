@@ -12,7 +12,7 @@ const user = [
 { 
   avatar:"http://www.studiobcarre.com/wp-content/uploads/2018/11/Photo-identite-Les-Sables-d-olonne-1024x1024.jpg",
   name:"Vickie Riley",
-  
+  online:'online'
 },
 
 { 
@@ -24,7 +24,7 @@ const user = [
 { 
   avatar:"https://www.nathaliehupin-photo.be/photo/wp-content/uploads/2016/07/identite-8005-2.jpg",
   name:"Grace Viguier",
-  
+  online: 'online'
 },
 
 { 
